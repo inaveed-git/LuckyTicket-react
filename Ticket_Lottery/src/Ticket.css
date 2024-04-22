@@ -1,0 +1,16 @@
+/* Ticket.css */
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+/* Style each individual ticket number */
+.ticket-number {
+  padding: 10px 20px;
+  border-radius: 6px;
+  background-color: var(--secondary-color);
+  color: #fff;
+}
